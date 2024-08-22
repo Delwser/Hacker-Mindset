@@ -1,11 +1,16 @@
-# <span style="color:#4CAF50;">Repositório</span> criado com fins de armazenar o meu arsenal de códigos usados em aula.
+![Banner](https://via.placeholder.com/1200x300.png?text=Meu+Repositório+de+Códigos)
 
-## <span style="color:#2196F3;">Tipos de arquivos salvos</span>
-- **Bash script (.sh)**
-- **Python (.py)**
+# Repositório criado com fins de armazenar o meu arsenal de códigos usados em aula.
 
-## <span style="color:#FF5722;">Exercícios Pardal</span>
-### - Requisitos:
-- **wordlists**
-  - darkweb2017-top.txt
-  - subdomains-top1million-5000.txt
+## Tipos de arquivos salvos
+
+- **Bash script** (`.sh`)
+- **Python** (`.py`)
+
+## Exercícios Pardal
+
+### Requisitos:
+
+- **wordlists**:
+  - `darkweb2017-top.txt`
+  - `subdomains-top1million-5000.txt`
