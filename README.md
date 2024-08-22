@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300.png?text=Meu+Repositório+de+Códigos)
+![Banner](https://via.placeholder.com/1200x300.png?text=Meu+Repositório+de+Códigoscolor=blue)
 
 # Repositório criado com fins de armazenar o meu arsenal de códigos usados em aula.
 
