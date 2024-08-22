@@ -3,6 +3,10 @@
 ## Tipos de arquivos salvos
 ### -Bash script (.sh)
 ### -Python (.py)
-### -etc..
+
+## ##Exercicios Pardal##
+### - Requisitos:
+### - wordlists(darkweb2017-top.txt, subdomains-top1million-5000.txt)
+
 
 
