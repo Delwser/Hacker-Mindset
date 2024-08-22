@@ -5,7 +5,7 @@ def buscando_urls():
         urls = arquivo.readlines() #Definindo quais tipos de 
         
         for i in range(0, 20):  # Puxando as primeiras 20 linhas
-            url = "https://" + urls[i].strip()  # Adicionando https para fazer requisição
+            url = "https://" + urls[i].strip() +".example.com/"  # Adicionando https para fazer requisição
             
             try:
                 response = requests.get(url)  # Fazendo a requisição
